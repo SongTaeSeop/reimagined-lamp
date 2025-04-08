@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-08T03:32:06.339Z</id>
+    <id>urn:2025-04-08T03:40:29.281Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-08T03:32:06.339Z</updated>
+    <updated>2025-04-08T03:40:29.281Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[나라 살림 105조 적자…2년 연속 ‘세수 펑크’ 탓]]></title>
         <id>1191264</id>
         <link href="https://www.hani.co.kr/arti/economy/economy_general/1191264.html"/>
-        <updated>2025-04-08T03:31:58.796Z</updated>
+        <updated>2025-04-08T03:40:18.956Z</updated>
         <summary type="html"><![CDATA[지난해 나라살림 적자 규모가 105조원(관리재정수지 기준)으로 당초 예산을 세울 때 내놓은 계획보다 13조1천억원 늘었다. 대규모 세수 결손으로 지출 규모를 크게 줄였음에도 애초 목표보다 재정 수지가 악화한 것이다. 정부가 8일 국무회의를 열어 심의·의결한 ‘2024회]]></summary>
         <author>
             <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이복현 “수출 관세 피해 정밀 분석…기업 대출 건전성도 점검”]]></title>
-        <id>1191272</id>
-        <link href="https://www.hani.co.kr/arti/economy/finance/1191272.html"/>
-        <updated>2025-04-08T03:31:58.774Z</updated>
-        <summary type="html"><![CDATA[금융감독원이 미국 정부의 상호관세 발표에 따른 국내 산업 영향과 피해 수준을 정밀히 분석하기로 했다. 주식시장뿐 아니라 기업 타격에 따른 실물경기 우려가 커지는 가운데 금융권의 기업대출 건전성도 면밀히 점검하기로 했다. 금감원은 8일 오전 이복현 금감원장 주재로 ‘미국]]></summary>
+        <title type="html"><![CDATA[요양시설 노인들, 재가 수급자보다 약 3.5개 더 먹는다]]></title>
+        <id>1191283</id>
+        <link href="https://www.hani.co.kr/arti/society/health/1191283.html"/>
+        <updated>2025-04-08T03:40:18.946Z</updated>
+        <summary type="html"><![CDATA[요양시설에서 지내는 노인들이 하루에 평균 11.5개의 약을 복용하고 있다는 실태조사가 나왔다. 국민건강보험공단 건강보험연구원은 2023년 장기요양수급자 가운데 시설입소 18만7077명과 집에서 서비스를 받는 재가 수급자 70만4019명을 대상으로 약물 사용 실태를 분석]]></summary>
         <author>
             <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[조갑제 “국힘, ‘부정선거 음모론’ 악령에 접수된 사교 집단”]]></title>
-        <id>1191271</id>
-        <link href="https://www.hani.co.kr/arti/politics/politics_general/1191271.html"/>
-        <updated>2025-04-08T03:31:58.758Z</updated>
-        <summary type="html"><![CDATA[보수 논객인 조갑제 조갑제닷컴 대표가 국민의힘을 “악령에 접수된 사교집단”이라고 표현하며 반성문부터 써야 한다고 비판했다. 역시 보수 논객인 정규재 전 한국경제신문 주필은 “국민의힘은 (조기 대선에) 후보를 내지 않는 게 맞다”고 말했다. 조 대표는 8일 에스비에스(S]]></summary>
+        <title type="html"><![CDATA[관저에서 짐 빼는 윤석열…11일에야 한남동 떠날 듯]]></title>
+        <id>1191284</id>
+        <link href="https://www.hani.co.kr/arti/politics/politics_general/1191284.html"/>
+        <updated>2025-04-08T03:40:18.928Z</updated>
+        <summary type="html"><![CDATA[윤석열 전 대통령이 헌법재판소의 파면 결정 일주일 만인 오는 11일 서울 한남동 대통령 관저에서 나올 것으로 보인다. 윤 전 대통령이 파면 닷새째 머무르고 있는 한남동 관저에서는 8일부터 이삿짐이 사저인 서초동 아크로비스타로 옮겨지고 있는 것으로 알려졌다. 경호처는 윤]]></summary>
         <author>
             <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경기도, 392억 투입 홍수 대비 공릉천 정비]]></title>
-        <id>1191279</id>
-        <link href="https://www.hani.co.kr/arti/area/capital/1191279.html"/>
-        <updated>2025-04-08T03:31:58.741Z</updated>
-        <summary type="html"><![CDATA[경기도가 고양시 공릉천의 홍수 대응 능력을 키우기 위한 정비사업을 진행한다. 도는 고양시 신도동에서 관산동에 이르는 공릉천 일대 총연장 4.03㎞ 구간 하천을 정비하는 ‘고양 공릉천 지방하천 정비사업’을 시작한다고 8일 밝혔다. 이번 정비사업에는 △축제공 0.5㎞ △보]]></summary>
+        <title type="html"><![CDATA[민주 “국회·정부, 합동 대미 외교전 나서야” 관세 대응 협의회 제안]]></title>
+        <id>1191285</id>
+        <link href="https://www.hani.co.kr/arti/politics/politics_general/1191285.html"/>
+        <updated>2025-04-08T03:40:18.905Z</updated>
+        <summary type="html"><![CDATA[진성준 더불어민주당 정책위의장이 “지금 당장 정상 외교를 할 수 없는 우리 형편으로는 국회라도 나서야 한다”며 도널드 트럼프 미국 대통령발 통상 위기 등을 논의하기 위한 정당 정책협의회를 정부에 제안했다. 진 의장은 이날 오전 국회에서 열린 원내대책회의에서 “국회 통상]]></summary>
         <author>
             <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2월 경상수지 22개월째 흑자…“미 관세 영향은 4월부터”]]></title>
-        <id>1191275</id>
-        <link href="https://www.hani.co.kr/arti/economy/economy_general/1191275.html"/>
-        <updated>2025-04-08T03:31:58.731Z</updated>
-        <summary type="html"><![CDATA[지난 2월 우리나라 경상수지가 22개월 연속 흑자 기조를 이어갔다. 미국의 관세정책 영향은 4월부터 점진적으로 나타날 것으로 한국은행은 전망했다. 한은이 8일 발표한 국제수지(잠정) 통계를 보면, 2월 경상수지는 71억8천만달러(약 10조5582억원) 흑자로 집계됐다.]]></summary>
+        <title type="html"><![CDATA[어르신에게 하루 한 끼 영양식…서울시, ‘서울밥상’ 본격 시작]]></title>
+        <id>1191281</id>
+        <link href="https://www.hani.co.kr/arti/area/capital/1191281.html"/>
+        <updated>2025-04-08T03:40:18.882Z</updated>
+        <summary type="html"><![CDATA[서울시가 이달부터 60살 이상 저소득층 노인들에게 음식을 제공하는 ‘서울 밥상’ 사업을 본격 추진한다. 서울시는 9일부터 강서구·은평구 등 8개 자치구에서 저소득층 노인 845명을 대상으로 ‘서울밥상’ 시범서비스를 진행한다고 8일 밝혔다. ‘서울 밥상’은 시와 계약을]]></summary>
         <author>
             <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
         </author>
@@ -59,28 +59,8 @@
         <title type="html"><![CDATA[‘안가 회동’ 이완규 헌법재판관 후보자에 권성동 “미스터 법질서” 옹호]]></title>
         <id>1191265</id>
         <link href="https://www.hani.co.kr/arti/politics/politics_general/1191265.html"/>
-        <updated>2025-04-08T03:31:58.714Z</updated>
+        <updated>2025-04-08T03:40:18.858Z</updated>
         <summary type="html"><![CDATA[국민의힘은 8일 한덕수 대통령 권한대행 국무총리가 12·3 비상계엄 이튿날 ‘안가 회동’에 참석해 내란 연루 의혹을 받는 이완규 법제처장을 헌법재판관 후보자로 지명하자 “이 처장은 그야말로 미스터 법질서, 미스터 클린”이라고 옹호하고 나섰다. 권성동 원내대표는 이날 한]]></summary>
-        <author>
-            <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대선 앞두고 정치 테마주 시끌…‘정치인 무관’ 공시까지]]></title>
-        <id>1191280</id>
-        <link href="https://www.hani.co.kr/arti/economy/finance/1191280.html"/>
-        <updated>2025-04-08T03:31:58.687Z</updated>
-        <summary type="html"><![CDATA[12·3 내란 사태를 일으킨 윤석열 대통령이 파면되면서 대통령 선거가 6월3일로 확정된 가운데, 국내 증시에선 정치 테마주의 변동성이 커지고 있다. 8일 국내 증시에서는 정치, 정책 바람을 탄 종목들이 강세를 보이고 있다. 코스닥 시장에서 식품 기업 에르코스가 3거래일]]></summary>
-        <author>
-            <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유럽도 ‘가장 뜨거운’ 3월…북극 해빙면적 4개월째 ‘역대 최저’]]></title>
-        <id>1191292</id>
-        <link href="https://www.hani.co.kr/arti/society/environment/1191292.html"/>
-        <updated>2025-04-08T03:31:58.677Z</updated>
-        <summary type="html"><![CDATA[한국에서 이상고온 현상이 나타나 영남에 대형산불이 잇따른 지난달 유럽도 역대 ‘가장 뜨거운’ 3월이었던 것으로 나타났다. 북극 해빙 면적도 4개월 연속 최저 기록을 세웠다. 유럽연합 기후변화 감시기구인 코페르니쿠스 기후변화서비스(C3S)는 8일(현지시각) 올해 3월 세]]></summary>
         <author>
             <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
         </author>
@@ -89,7 +69,7 @@
         <title type="html"><![CDATA[“한덕수, 황교안보다 더해”…임명직 불과한데 ‘대통령 고유권한’ 행사]]></title>
         <id>1191288</id>
         <link href="https://www.hani.co.kr/arti/politics/politics_general/1191288.html"/>
-        <updated>2025-04-08T03:31:58.659Z</updated>
+        <updated>2025-04-08T03:40:18.846Z</updated>
         <summary type="html"><![CDATA[8일 한덕수 대통령 권한대행 국무총리가 열흘 뒤 임기가 종료되는 문형배 헌법재판소장 직무대행과 이미선 헌법재판관의 후임자로 이완규 법제처장과 함상훈 서울고등법원 부장판사를 지명하면서 임명직에 불과한 한 권한대행이 ‘대통령 몫’의 헌법재판관을 전격 임명한 것은 ‘월권’이]]></summary>
         <author>
             <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
@@ -99,48 +79,8 @@
         <title type="html"><![CDATA[포장주문 중개 서비스 뛰어든 ‘당근’…소상공인들은 ‘방긋’]]></title>
         <id>1191263</id>
         <link href="https://www.hani.co.kr/arti/economy/economy_general/1191263.html"/>
-        <updated>2025-04-08T03:31:58.643Z</updated>
+        <updated>2025-04-08T03:40:18.817Z</updated>
         <summary type="html"><![CDATA[지역생활 커뮤니티 당근이 서울 강남권을 중심으로 ‘포장주문 중개 서비스’를 시작했다. 배달앱 업계 1위 배달의민족(배민)이 그동안 무료였던 포장주문에 수수료 부과 방침을 밝힌 가운데, 소상공인들은 당근의 새 서비스를 환영하는 분위기다. 8일 당근 쪽 설명을 들어보면,]]></summary>
-        <author>
-            <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘6월 모평’ 4일로 변경…대선과 겹쳐 하루 밀려]]></title>
-        <id>1191276</id>
-        <link href="https://www.hani.co.kr/arti/society/schooling/1191276.html"/>
-        <updated>2025-04-08T03:31:58.633Z</updated>
-        <summary type="html"><![CDATA[윤석열 전 대통령의 파면으로 6월3일 조기 대선이 치러지게 되면서, 당초 이날로 예정돼 있던 6월 모의평가 일정이 하루 늦춰진 4일로 변경됐다. 8일 오전 열린 국무회의에서 대통령 선거일을 6월3일로 결정함에 따라, 교육부는 올해 고등학교 3학년 학생들과 졸업생 등이]]></summary>
-        <author>
-            <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어르신에게 하루 한 끼 영양식…서울시, ‘서울밥상’ 본격 시작]]></title>
-        <id>1191281</id>
-        <link href="https://www.hani.co.kr/arti/area/capital/1191281.html"/>
-        <updated>2025-04-08T03:31:58.612Z</updated>
-        <summary type="html"><![CDATA[서울시가 이달부터 60살 이상 저소득층 노인들에게 음식을 제공하는 ‘서울 밥상’ 사업을 본격 추진한다. 서울시는 9일부터 강서구·은평구 등 8개 자치구에서 저소득층 노인 845명을 대상으로 ‘서울밥상’ 시범서비스를 진행한다고 8일 밝혔다. ‘서울 밥상’은 시와 계약을]]></summary>
-        <author>
-            <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차기 대통령실은 다시 청와대?…“윤석열 흔적 가장 없는 곳”]]></title>
-        <id>1191270</id>
-        <link href="https://www.hani.co.kr/arti/politics/politics_general/1191270.html"/>
-        <updated>2025-04-08T03:31:58.584Z</updated>
-        <summary type="html"><![CDATA[윤석열 전 대통령 파면으로 조기 대선이 치러지면서 차기 대통령 집무실에도 관심이 쏠리고 있다. 용산 대통령실이 윤석열 정부의 불통과 독선을 상징하는 곳인 만큼 더는 집무실로서 기능하기 어려울 것이란 관측이 나온다. 김민석 더불어민주당 최고위원은 8일 문화방송(MBC)]]></summary>
-        <author>
-            <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘티메프 사태' 구영배 등 첫 공판서 “죄송하지만”…공소사실 부인]]></title>
-        <id>1191282</id>
-        <link href="https://www.hani.co.kr/arti/society/society_general/1191282.html"/>
-        <updated>2025-04-08T03:31:58.550Z</updated>
-        <summary type="html"><![CDATA[1조8500억 규모의 대규모 미정산 사태를 발생시킨 큐텐·티몬·위메프 대표들에 대한 첫 정식 재판이 8일 열렸다. 구영배 큐텐그룹 대표 등은 법정에서 “피해자들에게 죄송하다”면서도 공소사실을 전면 부인한다고 밝혔다. 서울중앙지법은 이날 오전 특정경제범죄가중처벌 등에 관]]></summary>
         <author>
             <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
         </author>
@@ -149,38 +89,8 @@
         <title type="html"><![CDATA[거장 배우 로버트 드 니로, 칸 명예 황금종려상]]></title>
         <id>1191278</id>
         <link href="https://www.hani.co.kr/arti/culture/culture_general/1191278.html"/>
-        <updated>2025-04-08T03:31:58.540Z</updated>
+        <updated>2025-04-08T03:40:18.799Z</updated>
         <summary type="html"><![CDATA[거장 배우 로버트 드 니로(81)가 오랜 인연을 맺어온 칸국제영화제에서 명예 황금종려상을 받는다. 칸영화제는 8일(현지시각) 공식 누리집을 통해 제78회 칸영화제 명예 황금종려상 수상자로 로버트 드 니로를 선정했다고 밝혔다. 시상은 다음달 13일 칸 팔레 드 페스티벌에]]></summary>
-        <author>
-            <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본, 2025년판 외교청서에 “독도는 일본땅”…정부, 즉각 철회 촉구]]></title>
-        <id>1191266</id>
-        <link href="https://www.hani.co.kr/arti/politics/politics_general/1191266.html"/>
-        <updated>2025-04-08T03:31:58.513Z</updated>
-        <summary type="html"><![CDATA[외교부는 8일 일본 정부의 외교청서에 담긴 부당한 독도 영유권 주장에 대해 항의하고 즉각 철회를 요구했다. 외교부는 이날 대변인 명의 논평을 내고 “일본 정부가 외교청서를 통해 역사적·지리적·국제법적으로 명백한 우리 고유의 영토인 독도에 대해 부당한 영유권 주장을 되풀]]></summary>
-        <author>
-            <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[관저에서 짐 빼는 윤석열…11일에야 한남동 떠날 듯]]></title>
-        <id>1191284</id>
-        <link href="https://www.hani.co.kr/arti/politics/politics_general/1191284.html"/>
-        <updated>2025-04-08T03:31:58.483Z</updated>
-        <summary type="html"><![CDATA[윤석열 전 대통령이 헌법재판소의 파면 결정 일주일 만인 오는 11일 서울 한남동 대통령 관저에서 나올 것으로 보인다. 윤 전 대통령이 파면 닷새째 머무르고 있는 한남동 관저에서는 8일부터 이삿짐이 사저인 서초동 아크로비스타로 옮겨지고 있는 것으로 알려졌다. 경호처는 윤]]></summary>
-        <author>
-            <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안철수, 4번째 대선출마 선언 “이재명 넘어 승리할 유일 후보”]]></title>
-        <id>1191287</id>
-        <link href="https://www.hani.co.kr/arti/politics/politics_general/1191287.html"/>
-        <updated>2025-04-08T03:31:58.471Z</updated>
-        <summary type="html"><![CDATA[안철수 국민의힘 의원이 8일 “이재명을 넘어 승리할 수 있는 유일한 후보”라며 대선 출마를 공식 선언했다. 안 의원은 이날 오전 서울 광화문광장에서 기자회견을 열어 “국민통합, 시대교체, 정직한 사람들의 시대로 나아가겠다”며 대선에 출마하겠다고 밝혔다. 안 의원은 우선]]></summary>
         <author>
             <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
         </author>
@@ -189,28 +99,48 @@
         <title type="html"><![CDATA[김동연·유정복 9일 대선출마 선언…오세훈도 주내 출사표]]></title>
         <id>1191286</id>
         <link href="https://www.hani.co.kr/arti/area/capital/1191286.html"/>
-        <updated>2025-04-08T03:31:58.446Z</updated>
+        <updated>2025-04-08T03:40:18.789Z</updated>
         <summary type="html"><![CDATA[‘윤석열 파면’으로 조기 대선이 확정된 가운데 수도권 광역지방자치단체장들의 대권 도전 선언이 잇따르고 있다. 더불어민주당에서는 김동연 경기지사가, 국민의힘 진영에서는 유정복 인천시장이 9일 출사표 낸다. 이른바 ‘명태균 게이트’로 수사를 받는 국민의힘 오세훈 서울시장도]]></summary>
         <author>
             <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연세대, 英케임브리지대와 손잡고 양자과학기술 공동연구 나선다]]></title>
-        <id>1191267</id>
-        <link href="https://www.hani.co.kr/arti/economy/biznews/1191267.html"/>
-        <updated>2025-04-08T03:31:58.428Z</updated>
-        <summary type="html"><![CDATA[연세대학교(총장 윤동섭)는 영국 케임브리지대학교(University of Cambridge)와 ‘양자과학기술 분야 학술 교류 및 연구 협력 강화를 위한 양해각서(MOU)’를 체결했다. 이번 협약은 양자컴퓨팅을 포함한 양자과학기술 분야에서의 국제 공동 연구와 학술 교류를]]></summary>
+        <title type="html"><![CDATA[‘티메프 사태' 구영배 등 첫 공판서 “죄송하지만”…공소사실 부인]]></title>
+        <id>1191282</id>
+        <link href="https://www.hani.co.kr/arti/society/society_general/1191282.html"/>
+        <updated>2025-04-08T03:40:18.771Z</updated>
+        <summary type="html"><![CDATA[1조8500억 규모의 대규모 미정산 사태를 발생시킨 큐텐·티몬·위메프 대표들에 대한 첫 정식 재판이 8일 열렸다. 구영배 큐텐그룹 대표 등은 법정에서 “피해자들에게 죄송하다”면서도 공소사실을 전면 부인한다고 밝혔다. 서울중앙지법은 이날 오전 특정경제범죄가중처벌 등에 관]]></summary>
         <author>
             <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한덕수 ‘헌법재판관 후임 지명’에 야권 “모든 카드 동원 저지”]]></title>
-        <id>1191277</id>
-        <link href="https://www.hani.co.kr/arti/politics/politics_general/1191277.html"/>
-        <updated>2025-04-08T03:31:58.414Z</updated>
-        <summary type="html"><![CDATA[한덕수 대통령 권한대행 국무총리가 8일 이완규 법제처장과 함상훈 서울고법 부장판사를 문형배·이미선 헌법재판관의 후임자로 지명하자, 야권은 강하게 반발하며 즉각 권한쟁의심판 청구를 비롯한 모든 카드를 동원해 저지하겠다고 별렀다. 대통령 권한대행이 대선을 고작 두 달 앞두]]></summary>
+        <title type="html"><![CDATA[차기 대통령실은 다시 청와대?…“윤석열 흔적 가장 없는 곳”]]></title>
+        <id>1191270</id>
+        <link href="https://www.hani.co.kr/arti/politics/politics_general/1191270.html"/>
+        <updated>2025-04-08T03:40:18.761Z</updated>
+        <summary type="html"><![CDATA[윤석열 전 대통령 파면으로 조기 대선이 치러지면서 차기 대통령 집무실에도 관심이 쏠리고 있다. 용산 대통령실이 윤석열 정부의 불통과 독선을 상징하는 곳인 만큼 더는 집무실로서 기능하기 어려울 것이란 관측이 나온다. 김민석 더불어민주당 최고위원은 8일 문화방송(MBC)]]></summary>
+        <author>
+            <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘6월 모평’ 4일로 변경…대선과 겹쳐 하루 밀려]]></title>
+        <id>1191276</id>
+        <link href="https://www.hani.co.kr/arti/society/schooling/1191276.html"/>
+        <updated>2025-04-08T03:40:18.744Z</updated>
+        <summary type="html"><![CDATA[윤석열 전 대통령의 파면으로 6월3일 조기 대선이 치러지게 되면서, 당초 이날로 예정돼 있던 6월 모의평가 일정이 하루 늦춰진 4일로 변경됐다. 8일 오전 열린 국무회의에서 대통령 선거일을 6월3일로 결정함에 따라, 교육부는 올해 고등학교 3학년 학생들과 졸업생 등이]]></summary>
+        <author>
+            <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유럽도 ‘가장 뜨거운’ 3월…북극 해빙면적 4개월째 ‘역대 최저’]]></title>
+        <id>1191292</id>
+        <link href="https://www.hani.co.kr/arti/society/environment/1191292.html"/>
+        <updated>2025-04-08T03:40:18.725Z</updated>
+        <summary type="html"><![CDATA[한국에서 이상고온 현상이 나타나 영남에 대형산불이 잇따른 지난달 유럽도 역대 ‘가장 뜨거운’ 3월이었던 것으로 나타났다. 북극 해빙 면적도 4개월 연속 최저 기록을 세웠다. 유럽연합 기후변화 감시기구인 코페르니쿠스 기후변화서비스(C3S)는 8일(현지시각) 올해 3월 세]]></summary>
         <author>
             <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
         </author>
@@ -219,18 +149,8 @@
         <title type="html"><![CDATA[명지대학교, 학생 주도 RAG 기반 AI 챗봇 '마루에그봇' 개발로 입학처 상담 효율화]]></title>
         <id>1191268</id>
         <link href="https://www.hani.co.kr/arti/economy/biznews/1191268.html"/>
-        <updated>2025-04-08T03:31:58.386Z</updated>
+        <updated>2025-04-08T03:40:18.703Z</updated>
         <summary type="html"><![CDATA[명지대학교(총장 임연수) 입학처는 최근 RAG(검색증강생성) 기반 AI 챗봇 '마루에그봇'을 개발하여 운영을 시작했다. '마루에그봇'은 학생 주도로 개발된 챗봇으로, 입학처 상담 업무의 효율성을 높이고, 수험생들에게 신속하고 정확한 정보를 제공하기 위해 도입되었다. ']]></summary>
-        <author>
-            <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김문수 “대선 출마하기로”…장관직 사의 표명]]></title>
-        <id>1191291</id>
-        <link href="https://www.hani.co.kr/arti/politics/politics_general/1191291.html"/>
-        <updated>2025-04-08T03:31:58.361Z</updated>
-        <summary type="html"><![CDATA[6월3일 대선이 확정된 가운데 국민의힘 주요 대선주자로 꼽히는 김문수 고용노동부 장관이 사의를 표명하고, 대선 준비에 들어갔다. 김 장관은 8일 서울 종로구 정부서울청사에서 열린 국무회의가 끝난 뒤 기자들과 만나 “국민도 (대선 출마를 원하고) 여러 가지 국가적 어려움]]></summary>
         <author>
             <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
         </author>
@@ -239,48 +159,8 @@
         <title type="html"><![CDATA[시간당 6㎜ 비 내려도 타설 가능한 ‘우중 콘크리트’ 개발]]></title>
         <id>1191274</id>
         <link href="https://www.hani.co.kr/arti/economy/economy_general/1191274.html"/>
-        <updated>2025-04-08T03:31:58.342Z</updated>
+        <updated>2025-04-08T03:40:18.686Z</updated>
         <summary type="html"><![CDATA[유진그룹 계열 유진기업과 동양은 비가 오는 날씨에도 안정적으로 타설할 수 있는 ‘우중 콘크리트’를 공동 출시했다고 8일 밝혔다. 양사가 공동 개발한 이 상품은 제조 과정에 특수한 화학 혼화제를 활용해 시멘트의 재료분리 저항성을 크게 향상한 것이 특징이다. 이에 따라 빗]]></summary>
-        <author>
-            <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공무원 일하다 사망해 특별승진 땐, 유족급여 올린다]]></title>
-        <id>1191290</id>
-        <link href="https://www.hani.co.kr/arti/area/area_general/1191290.html"/>
-        <updated>2025-04-08T03:31:58.332Z</updated>
-        <summary type="html"><![CDATA[앞으로 공무원이 일하다가 사망해 특별승진하면, 승진한 계급에 따라 유족이 연금을 받게 된다. 박용수 인사혁신처 차장은 8일 오전 정부세종청사에서 브리핑을 열고 “공무상 사망자에 대한 실질적인 예우를 강화하기 위해, 추서 특별 승진 시 그에 해당하는 계급을 기준으로 유족]]></summary>
-        <author>
-            <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일 외교청서 “한국은 중요한 이웃”이라며 “독도는 일본 땅” 18년째]]></title>
-        <id>1191273</id>
-        <link href="https://www.hani.co.kr/arti/international/international_general/1191273.html"/>
-        <updated>2025-04-08T03:31:58.312Z</updated>
-        <summary type="html"><![CDATA[일본 정부가 국제정세와 일본 외교활동을 기록한 백서인 외교청서에서 한국의 12·3 내란 사태에 대해 “윤석열 (전) 대통령이 2025년 1월15일 한국 현직 대통령으로는 처음 체포·구속됐다”고 적었다. 일본은 ‘독도는 일본땅’이라는 억지주장을 이어가면서도 “한·일 관계]]></summary>
-        <author>
-            <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주 “국회·정부, 합동 대미 외교전 나서야” 관세 대응 협의회 제안]]></title>
-        <id>1191285</id>
-        <link href="https://www.hani.co.kr/arti/politics/politics_general/1191285.html"/>
-        <updated>2025-04-08T03:31:58.292Z</updated>
-        <summary type="html"><![CDATA[진성준 더불어민주당 정책위의장이 “지금 당장 정상 외교를 할 수 없는 우리 형편으로는 국회라도 나서야 한다”며 도널드 트럼프 미국 대통령발 통상 위기 등을 논의하기 위한 정당 정책협의회를 정부에 제안했다. 진 의장은 이날 오전 국회에서 열린 원내대책회의에서 “국회 통상]]></summary>
-        <author>
-            <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요양시설 노인들, 재가 수급자보다 약 3.5개 더 먹는다]]></title>
-        <id>1191283</id>
-        <link href="https://www.hani.co.kr/arti/society/health/1191283.html"/>
-        <updated>2025-04-08T03:31:58.282Z</updated>
-        <summary type="html"><![CDATA[요양시설에서 지내는 노인들이 하루에 평균 11.5개의 약을 복용하고 있다는 실태조사가 나왔다. 국민건강보험공단 건강보험연구원은 2023년 장기요양수급자 가운데 시설입소 18만7077명과 집에서 서비스를 받는 재가 수급자 70만4019명을 대상으로 약물 사용 실태를 분석]]></summary>
         <author>
             <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
         </author>
@@ -289,8 +169,108 @@
         <title type="html"><![CDATA[윤석열 측근 검찰주의자를 헌법재판관에…파면되고도 ‘유훈통치’]]></title>
         <id>1191269</id>
         <link href="https://www.hani.co.kr/arti/politics/politics_general/1191269.html"/>
-        <updated>2025-04-08T03:31:58.253Z</updated>
+        <updated>2025-04-08T03:40:18.665Z</updated>
         <summary type="html"><![CDATA[한덕수 대통령 권한대행 국무총리가 8일 대통령 몫 헌법재판관 후보자로 이완규 법제처장과 함상훈 서울고등법원 부장판사를 기습 지명하면서 권한대행의 권한을 두고 법적·정치적 논란이 커지고 있다. 특히 이완규 처장은 검찰 시절부터 윤석열 전 대통령 최측근으로 꼽힌다. 윤석열]]></summary>
+        <author>
+            <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대선 앞두고 정치 테마주 시끌…‘정치인 무관’ 공시까지]]></title>
+        <id>1191280</id>
+        <link href="https://www.hani.co.kr/arti/economy/finance/1191280.html"/>
+        <updated>2025-04-08T03:40:18.651Z</updated>
+        <summary type="html"><![CDATA[12·3 내란 사태를 일으킨 윤석열 대통령이 파면되면서 대통령 선거가 6월3일로 확정된 가운데, 국내 증시에선 정치 테마주의 변동성이 커지고 있다. 8일 국내 증시에서는 정치, 정책 바람을 탄 종목들이 강세를 보이고 있다. 코스닥 시장에서 식품 기업 에르코스가 3거래일]]></summary>
+        <author>
+            <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2월 경상수지 22개월째 흑자…“미 관세 영향은 4월부터”]]></title>
+        <id>1191275</id>
+        <link href="https://www.hani.co.kr/arti/economy/economy_general/1191275.html"/>
+        <updated>2025-04-08T03:40:18.626Z</updated>
+        <summary type="html"><![CDATA[지난 2월 우리나라 경상수지가 22개월 연속 흑자 기조를 이어갔다. 미국의 관세정책 영향은 4월부터 점진적으로 나타날 것으로 한국은행은 전망했다. 한은이 8일 발표한 국제수지(잠정) 통계를 보면, 2월 경상수지는 71억8천만달러(약 10조5582억원) 흑자로 집계됐다.]]></summary>
+        <author>
+            <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안철수, 4번째 대선출마 선언 “이재명 넘어 승리할 유일 후보”]]></title>
+        <id>1191287</id>
+        <link href="https://www.hani.co.kr/arti/politics/politics_general/1191287.html"/>
+        <updated>2025-04-08T03:40:18.609Z</updated>
+        <summary type="html"><![CDATA[안철수 국민의힘 의원이 8일 “이재명을 넘어 승리할 수 있는 유일한 후보”라며 대선 출마를 공식 선언했다. 안 의원은 이날 오전 서울 광화문광장에서 기자회견을 열어 “국민통합, 시대교체, 정직한 사람들의 시대로 나아가겠다”며 대선에 출마하겠다고 밝혔다. 안 의원은 우선]]></summary>
+        <author>
+            <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공무원 일하다 사망해 특별승진 땐, 유족급여 올린다]]></title>
+        <id>1191290</id>
+        <link href="https://www.hani.co.kr/arti/area/area_general/1191290.html"/>
+        <updated>2025-04-08T03:40:18.595Z</updated>
+        <summary type="html"><![CDATA[앞으로 공무원이 일하다가 사망해 특별승진하면, 승진한 계급에 따라 유족이 연금을 받게 된다. 박용수 인사혁신처 차장은 8일 오전 정부세종청사에서 브리핑을 열고 “공무상 사망자에 대한 실질적인 예우를 강화하기 위해, 추서 특별 승진 시 그에 해당하는 계급을 기준으로 유족]]></summary>
+        <author>
+            <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조갑제 “국힘, ‘부정선거 음모론’ 악령에 접수된 사교 집단”]]></title>
+        <id>1191271</id>
+        <link href="https://www.hani.co.kr/arti/politics/politics_general/1191271.html"/>
+        <updated>2025-04-08T03:40:18.546Z</updated>
+        <summary type="html"><![CDATA[보수 논객인 조갑제 조갑제닷컴 대표가 국민의힘을 “악령에 접수된 사교집단”이라고 표현하며 반성문부터 써야 한다고 비판했다. 역시 보수 논객인 정규재 전 한국경제신문 주필은 “국민의힘은 (조기 대선에) 후보를 내지 않는 게 맞다”고 말했다. 조 대표는 8일 에스비에스(S]]></summary>
+        <author>
+            <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이복현 “수출 관세 피해 정밀 분석…기업 대출 건전성도 점검”]]></title>
+        <id>1191272</id>
+        <link href="https://www.hani.co.kr/arti/economy/finance/1191272.html"/>
+        <updated>2025-04-08T03:40:18.534Z</updated>
+        <summary type="html"><![CDATA[금융감독원이 미국 정부의 상호관세 발표에 따른 국내 산업 영향과 피해 수준을 정밀히 분석하기로 했다. 주식시장뿐 아니라 기업 타격에 따른 실물경기 우려가 커지는 가운데 금융권의 기업대출 건전성도 면밀히 점검하기로 했다. 금감원은 8일 오전 이복현 금감원장 주재로 ‘미국]]></summary>
+        <author>
+            <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일본, 2025년판 외교청서에 “독도는 일본땅”…정부, 즉각 철회 촉구]]></title>
+        <id>1191266</id>
+        <link href="https://www.hani.co.kr/arti/politics/politics_general/1191266.html"/>
+        <updated>2025-04-08T03:40:18.514Z</updated>
+        <summary type="html"><![CDATA[외교부는 8일 일본 정부의 외교청서에 담긴 부당한 독도 영유권 주장에 대해 항의하고 즉각 철회를 요구했다. 외교부는 이날 대변인 명의 논평을 내고 “일본 정부가 외교청서를 통해 역사적·지리적·국제법적으로 명백한 우리 고유의 영토인 독도에 대해 부당한 영유권 주장을 되풀]]></summary>
+        <author>
+            <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일 외교청서 “한국은 중요한 이웃”이라며 “독도는 일본 땅” 18년째]]></title>
+        <id>1191273</id>
+        <link href="https://www.hani.co.kr/arti/international/international_general/1191273.html"/>
+        <updated>2025-04-08T03:40:18.491Z</updated>
+        <summary type="html"><![CDATA[일본 정부가 국제정세와 일본 외교활동을 기록한 백서인 외교청서에서 한국의 12·3 내란 사태에 대해 “윤석열 (전) 대통령이 2025년 1월15일 한국 현직 대통령으로는 처음 체포·구속됐다”고 적었다. 일본은 ‘독도는 일본땅’이라는 억지주장을 이어가면서도 “한·일 관계]]></summary>
+        <author>
+            <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한덕수 ‘헌법재판관 후임 지명’에 야권 “모든 카드 동원 저지”]]></title>
+        <id>1191277</id>
+        <link href="https://www.hani.co.kr/arti/politics/politics_general/1191277.html"/>
+        <updated>2025-04-08T03:40:18.474Z</updated>
+        <summary type="html"><![CDATA[한덕수 대통령 권한대행 국무총리가 8일 이완규 법제처장과 함상훈 서울고법 부장판사를 문형배·이미선 헌법재판관의 후임자로 지명하자, 야권은 강하게 반발하며 즉각 권한쟁의심판 청구를 비롯한 모든 카드를 동원해 저지하겠다고 별렀다. 대통령 권한대행이 대선을 고작 두 달 앞두]]></summary>
+        <author>
+            <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김문수 “대선 출마하기로”…장관직 사의 표명]]></title>
+        <id>1191291</id>
+        <link href="https://www.hani.co.kr/arti/politics/politics_general/1191291.html"/>
+        <updated>2025-04-08T03:40:18.454Z</updated>
+        <summary type="html"><![CDATA[6월3일 대선이 확정된 가운데 국민의힘 주요 대선주자로 꼽히는 김문수 고용노동부 장관이 사의를 표명하고, 대선 준비에 들어갔다. 김 장관은 8일 서울 종로구 정부서울청사에서 열린 국무회의가 끝난 뒤 기자들과 만나 “국민도 (대선 출마를 원하고) 여러 가지 국가적 어려움]]></summary>
         <author>
             <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
         </author>
@@ -299,10 +279,110 @@
         <title type="html"><![CDATA[‘대치동 학원가 마약음료’ 주범, 징역 23년 확정]]></title>
         <id>1191289</id>
         <link href="https://www.hani.co.kr/arti/society/society_general/1191289.html"/>
-        <updated>2025-04-08T03:31:58.204Z</updated>
+        <updated>2025-04-08T03:40:18.432Z</updated>
         <summary type="html"><![CDATA[서울 강남 지역 학원가에서 학생들에게 마약음료를 집중력 강화 음료로 속여 마시게 하고 협박한 사건의 주범에 대해 징역 23년형이 확정됐다. 대법원 2부(주심 오경미 대법관)는 마약류 관리에 관한 법률 위반(향정) 등 혐의로 기소된 이아무개(27)씨에게 징역 23년을 선]]></summary>
         <author>
             <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연세대, 英케임브리지대와 손잡고 양자과학기술 공동연구 나선다]]></title>
+        <id>1191267</id>
+        <link href="https://www.hani.co.kr/arti/economy/biznews/1191267.html"/>
+        <updated>2025-04-08T03:40:18.411Z</updated>
+        <summary type="html"><![CDATA[연세대학교(총장 윤동섭)는 영국 케임브리지대학교(University of Cambridge)와 ‘양자과학기술 분야 학술 교류 및 연구 협력 강화를 위한 양해각서(MOU)’를 체결했다. 이번 협약은 양자컴퓨팅을 포함한 양자과학기술 분야에서의 국제 공동 연구와 학술 교류를]]></summary>
+        <author>
+            <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경기도, 392억 투입 홍수 대비 공릉천 정비]]></title>
+        <id>1191279</id>
+        <link href="https://www.hani.co.kr/arti/area/capital/1191279.html"/>
+        <updated>2025-04-08T03:40:18.381Z</updated>
+        <summary type="html"><![CDATA[경기도가 고양시 공릉천의 홍수 대응 능력을 키우기 위한 정비사업을 진행한다. 도는 고양시 신도동에서 관산동에 이르는 공릉천 일대 총연장 4.03㎞ 구간 하천을 정비하는 ‘고양 공릉천 지방하천 정비사업’을 시작한다고 8일 밝혔다. 이번 정비사업에는 △축제공 0.5㎞ △보]]></summary>
+        <author>
+            <name>전체기사 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성-SSG 5회까지 무승부 시 7.0배, 프로토 승부식 42회차 KBO리그 대상 경기 마감 임박]]></title>
+        <id>https://www.chosun.com/sports/baseball/2025/04/08/UX22E7IZKXS2UV6FC2SV26JAXM/</id>
+        <link href="https://www.chosun.com/sports/baseball/2025/04/08/UX22E7IZKXS2UV6FC2SV26JAXM/"/>
+        <updated>2025-04-08T03:32:16.000Z</updated>
+        <summary type="html"><![CDATA[국민체육진흥공단이 발행하는 체육진흥투표권 스포츠토토의 수탁사업자 스포츠토토코리아는 8일 오후 6시 30분에 대구삼성라이온즈파크에서 열리는 2025 KBO리그 삼성 라이온즈(홈)-SSG 랜더스(원정)전을 대상으로 한 프로토 승부식 42회차의 '야구 전반 유형'이 발매 마감을 앞두고 있다고 밝혔다. 스포츠토토가 2025년 프로야구 개막과 함께 선보인 '야구 전]]></summary>
+        <author>
+            <name>스포츠조선 = 남정석 기자</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰①] 강하늘 "'야당'? 이 시점에 정치 영화일까봐 걱정했는데.."]]></title>
+        <id>https://www.chosun.com/entertainments/movie/2025/04/08/7E6QTL6R3OP7FNCV3PLKTQESUE/</id>
+        <link href="https://www.chosun.com/entertainments/movie/2025/04/08/7E6QTL6R3OP7FNCV3PLKTQESUE/"/>
+        <updated>2025-04-08T03:31:37.000Z</updated>
+        <summary type="html"><![CDATA[[스포츠조선 안소윤 기자] 배우 강하늘이 영화 제목인 '야당'을 처음 보고 느낀 점을 솔직하게 털어놨다. 강하늘은 8일 서울 강남구 한 카페에서 스포츠조선과 만나 "'야당'이 정치 영화가 아니어서 다행이었다"며 "저희 영화를 통해 다른 의미도 있다는 걸 알려드리고 싶다"라고 했다. 오는 16일 개봉하는 '야당'은 대한민국 마약판과, 이를 설계하는 브로커 ']]></summary>
+        <author>
+            <name>스포츠조선 = 안소윤 기자</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[괴짜구단주 마크 큐반의 확인사살! "돈치치 트레이드, 명백한 실수. 그는 사고방식이 다르다"]]></title>
+        <id>https://www.chosun.com/sports/basketball/2025/04/08/ZU2WI3DQ4MU5R2GK3ICMCQB5OI/</id>
+        <link href="https://www.chosun.com/sports/basketball/2025/04/08/ZU2WI3DQ4MU5R2GK3ICMCQB5OI/"/>
+        <updated>2025-04-08T03:31:15.000Z</updated>
+        <summary type="html"><![CDATA[[스포츠조선 류동혁 기자] "돈치치 트레이드. 우리의 실수다!" 댈러스 매버릭스 전 구단주 마크 큐반은 이렇게 말했다. 그는 8일(한국시각) '더 스테판 A 스미스 쇼'와의 인터뷰에서 '세르비아의 슈퍼스타 니콜로 요키치는 코트에서 강렬하다. 그런데 경기가 끝나고 집에 가면 그는 하네스 경주에 더 관심이 있다. 그들은 코트 밖에서 자신의 삶을 산다. 그저 다]]></summary>
+        <author>
+            <name>스포츠조선 = 류동혁 기자</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미·일, 관세협의 담당 장관 지정…日 종합대책본부도 설치]]></title>
+        <id>https://www.yna.co.kr/view/AKR20250408092800073</id>
+        <link href="https://www.yna.co.kr/view/AKR20250408092800073"/>
+        <updated>2025-04-08T03:29:43.000Z</updated>
+        <summary type="html"><![CDATA[(도쿄=연합뉴스) 경수현 특파원 = 미국과 일본이 미국의 상호관세 등을 놓고 협의를 진행할 담당 장관을 정했다.]]></summary>
+        <author>
+            <name>경수현</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재명 “韓, 재판관 지명 권한 없어...자기가 대통령 된 걸로 착각”]]></title>
+        <id>https://www.chosun.com/national/court_law/2025/04/08/F3FJVXBFWBCAJJXSOMFFPWUV6A/</id>
+        <link href="https://www.chosun.com/national/court_law/2025/04/08/F3FJVXBFWBCAJJXSOMFFPWUV6A/"/>
+        <updated>2025-04-08T03:28:41.000Z</updated>
+        <summary type="html"><![CDATA[이재명 韓, 재판관 지명 권한 없어...자기가 대통령 된 걸로 착각]]></summary>
+        <author>
+            <name>김은경 기자</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무보, '미 관세 긴급지원 TF' 가동…유동성·공급망 재편 지원]]></title>
+        <id>https://www.yna.co.kr/view/AKR20250408092900003</id>
+        <link href="https://www.yna.co.kr/view/AKR20250408092900003"/>
+        <updated>2025-04-08T03:27:45.000Z</updated>
+        <summary type="html"><![CDATA[(서울=연합뉴스) 이슬기 기자 = 한국무역보험공사는 미 상호관세 등 대내외 불확실성이 증대한 가운데 수출 감소와 기업 경영 위축 등에 대응하기 ...]]></summary>
+        <author>
+            <name>이슬기</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[민주 "'부모찬스'란 말 그만 듣길"…심우정 딸 수사 촉구]]></title>
+        <id>https://www.yna.co.kr/view/AKR20250408091500001</id>
+        <link href="https://www.yna.co.kr/view/AKR20250408091500001"/>
+        <updated>2025-04-08T03:27:45.000Z</updated>
+        <summary type="html"><![CDATA[(서울=연합뉴스) 한주홍 기자 = 더불어민주당은 8일 심우정 검찰총장 딸의 외교부 연구원 등 취업 특혜 의혹과 관련한 공세를 이어가며 고위공직자...]]></summary>
+        <author>
+            <name>한주홍</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김영록 전남지사, 대선 불출마…"호남발전 헌신"(종합)]]></title>
+        <id>https://www.yna.co.kr/view/AKR20250408050551054</id>
+        <link href="https://www.yna.co.kr/view/AKR20250408050551054"/>
+        <updated>2025-04-08T03:26:47.000Z</updated>
+        <summary type="html"><![CDATA[(무안·서울=연합뉴스) 형민우 홍준석 기자 = 김영록 전남지사는 조기 대선에 출마하지 않겠다고 8일 밝혔다.]]></summary>
+        <author>
+            <name>홍준석</name>
         </author>
     </entry>
     <entry>
@@ -353,6 +433,16 @@
         <summary type="html"><![CDATA[(서울=연합뉴스) 문관현 기자 = 도널드 트럼프 미국 대통령의 '관세 위협'에 미국 소비자들이 관세 부과 전에 아이폰을 구매하기 위해 매장으로 ...]]></summary>
         <author>
             <name>문관현</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[반 다이크, 리버풀 남나…직접 "재계약 진전 있어... 논의 중"]]></title>
+        <id>https://www.chosun.com/sports/world-football/2025/04/08/PLVKMA7XKVJ7VBCSI7YOIJ53YE/</id>
+        <link href="https://www.chosun.com/sports/world-football/2025/04/08/PLVKMA7XKVJ7VBCSI7YOIJ53YE/"/>
+        <updated>2025-04-08T03:24:00.000Z</updated>
+        <summary type="html"><![CDATA[[OSEN=우충원 기자] 버질 반 다이크가 리버풀 잔류 가능성을 스스로 제기했다. 가디언은 7일(이하 한국시간) "버질 반 다이크는 리버풀과의 새 계약에 대해 진전이 있다고 밝혔다"라고 보도했다.리버풀 주장 반 다이크는 자타 공인 월드클래스 센터백이다. 2018년 1월 리버풀에 합류한 그는 리버풀 역대 최고의 영입 중 하나로 평가되고 있다.반 다이크가 합류]]></summary>
+        <author>
+            <name>OSEN</name>
         </author>
     </entry>
     <entry>
@@ -423,16 +513,6 @@
         <summary type="html"><![CDATA[(서울=연합뉴스) 김동규 기자 = 한화에어로스페이스가 지난달 예고한 유상증자 규모를 3조6천억원에서 2조3천억원으로 축소하기로 했다.]]></summary>
         <author>
             <name>김동규</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[괴짜구단주 마크 큐반의 확인사살! "돈치치 트레이드, 명백한 실수. 그는 사고방식이 다르다"]]></title>
-        <id>https://www.chosun.com/sports/basketball/2025/04/08/ZU2WI3DQ4MU5R2GK3ICMCQB5OI/</id>
-        <link href="https://www.chosun.com/sports/basketball/2025/04/08/ZU2WI3DQ4MU5R2GK3ICMCQB5OI/"/>
-        <updated>2025-04-08T03:19:01.000Z</updated>
-        <summary type="html"><![CDATA[[스포츠조선 류동혁 기자] "돈치치 트레이드. 우리의 실수다!" 댈러스 매버릭스 전 구단주 마크 큐반은 이렇게 말했다. 그는 8일(한국시각) '더 스테판 A 스미스 쇼'와의 인터뷰에서 '세르비아의 슈퍼스타 니콜로 요키치는 코트에서 강렬하다. 그런데 경기가 끝나고 집에 가면 그는 하네스 경주에 더 관심이 있다. 그들은 돌아가며서 자신의 삶을 산다. 그저 다를]]></summary>
-        <author>
-            <name>스포츠조선 = 류동혁 기자</name>
         </author>
     </entry>
     <entry>
@@ -906,6 +986,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA["어디서도 경험해 보지 못할 것"...'대환장 기안장', 기상천외 민박 예능의 등장 [종합]]]></title>
+        <id>https://www.chosun.com/entertainments/broadcast/2025/04/08/MYIEMYV6AQLYP7JZOEPTFZT6IY/</id>
+        <link href="https://www.chosun.com/entertainments/broadcast/2025/04/08/MYIEMYV6AQLYP7JZOEPTFZT6IY/"/>
+        <updated>2025-04-08T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[OSEN=유수연 기자] '대환장 기안장' 제작진이 '대환장' 재미를 자신있게 예고했다.8일 서울시 중구 커뮤니티 하우스 마실에서는 넷플릭스 '대환장 기안장' Part 1 ‘얼리 체크인’ 제작발표회가 진행됐다. 행사에는 박경림이 진행자로 나선 가운데, 정효민 PD, 이소민 PD, 황윤서 PD가 참석했다.이날 공개되는 '대환장 기안장'은 기안적 낭만이 가득한]]></summary>
+        <author>
+            <name>OSEN</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[강남 학원가 마약 음료' 주범, 징역 23년 확정]]></title>
         <id>https://www.chosun.com/national/court_law/2025/04/08/5ENCSKHCDJEGVHEKDJ4WE5HFEU/</id>
         <link href="https://www.chosun.com/national/court_law/2025/04/08/5ENCSKHCDJEGVHEKDJ4WE5HFEU/"/>
@@ -923,16 +1013,6 @@
         <summary type="html"><![CDATA[금융위원회는 8일부터 내달 19일까지 대부업법 시행령 및 감독규정 개정안 입법예고를 실시한다고 밝혔다. 올해 7월 22일 예정된 대부업법 개정안 시행에 앞서 금융위는 대부업 등록·취소요건 정비, 반사회적 계약 내용 기준 마련 등을 정할 예정이다. 대부업 개정안은 영세대부업자 난립을 막기 위해 대부업자 자기자본요건을 상향한다. 법 개정에 따라 대부업자 자기자]]></summary>
         <author>
             <name>김태호 기자(조선비즈)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["어디서도 경험해 보지 못할 것"...'대환장 기안장', 기상천외 민박 예능의 등장 [종합]]]></title>
-        <id>https://www.chosun.com/entertainments/broadcast/2025/04/08/MYIEMYV6AQLYP7JZOEPTFZT6IY/</id>
-        <link href="https://www.chosun.com/entertainments/broadcast/2025/04/08/MYIEMYV6AQLYP7JZOEPTFZT6IY/"/>
-        <updated>2025-04-08T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[[OSEN=유수연 기자] '대환장 기안장' 제작진이 '대환장' 재미를 자신있게 예고했다.8일 서울시 중구 커뮤니티 하우스 마실에서는 넷플릭스 '대환장 기안장' Part 1 ‘얼리 체크인’ 제작발표회가 진행됐다. 행사에는 박경림이 진행자로 나선 가운데, 정효민 PD, 이소민 PD, 황윤서 PD가 참석했다.이날 공개되는 '대환장 기안장'은 기안적 낭만이 가득한]]></summary>
-        <author>
-            <name>OSEN</name>
         </author>
     </entry>
     <entry>
@@ -1647,21 +1727,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘구단 첫 트레블’ 현대캐피탈, 최민호·전광인 등 5명 FA 자격 얻었다…남자부 25명 FA 공시 [오피셜]]]></title>
-        <id>https://www.chosun.com/sports/volleyball/2025/04/08/TH7FZD6BHKGAHFCFBG4Y7YEDJM/</id>
-        <link href="https://www.chosun.com/sports/volleyball/2025/04/08/TH7FZD6BHKGAHFCFBG4Y7YEDJM/"/>
-        <updated>2025-04-08T02:30:00.000Z</updated>
-        <summary type="html"><![CDATA[[OSEN=길준영 기자] 한국배구연맹이 2025년 자유계약선수(FA) 명단을 공개했다. 한국배구연맹은 8일 FA 선수 명단을 공시했다. FA 자격을 얻은 선수들은 이날부터 오는 21일 오후 6시까지 FA 계약 협상이 가능하다. FA 선수를 영입한 팀은 A그룹 선수는 전 시즌 연봉 200%와 보호선수 5인 외 보상선수 1명 또는 전 시즌 연봉 300%, B그]]></summary>
-        <author>
-            <name>OSEN</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['대환장 기안장' PD "기안84, 제작 날까지 설계도 안 그려와" 아찔 비하인드]]></title>
         <id>https://www.chosun.com/entertainments/broadcast/2025/04/08/QEF6ODAD2LOBUX3JV7FEBAQD4A/</id>
         <link href="https://www.chosun.com/entertainments/broadcast/2025/04/08/QEF6ODAD2LOBUX3JV7FEBAQD4A/"/>
         <updated>2025-04-08T02:30:00.000Z</updated>
         <summary type="html"><![CDATA[[OSEN=유수연 기자] '대환장 기안장' 정효민 PD가 '기안장' 공간 설계 비하인드에 대해 전했다.8일 서울시 중구 커뮤니티 하우스 마실에서는 넷플릭스 '대환장 기안장' Part 1 ‘얼리 체크인’ 제작발표회가 진행됐다. 행사에는 정효민 PD, 이소민 PD, 황윤서 PD가 참석했다.오는 4월 8일(화) 공개되는 '대환장 기안장'은 기안적 낭만이 가득한]]></summary>
+        <author>
+            <name>OSEN</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘구단 첫 트레블’ 현대캐피탈, 최민호·전광인 등 5명 FA 자격 얻었다…남자부 25명 FA 공시 [오피셜]]]></title>
+        <id>https://www.chosun.com/sports/volleyball/2025/04/08/TH7FZD6BHKGAHFCFBG4Y7YEDJM/</id>
+        <link href="https://www.chosun.com/sports/volleyball/2025/04/08/TH7FZD6BHKGAHFCFBG4Y7YEDJM/"/>
+        <updated>2025-04-08T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[[OSEN=길준영 기자] 한국배구연맹이 2025년 자유계약선수(FA) 명단을 공개했다. 한국배구연맹은 8일 FA 선수 명단을 공시했다. FA 자격을 얻은 선수들은 이날부터 오는 21일 오후 6시까지 FA 계약 협상이 가능하다. FA 선수를 영입한 팀은 A그룹 선수는 전 시즌 연봉 200%와 보호선수 5인 외 보상선수 1명 또는 전 시즌 연봉 300%, B그]]></summary>
         <author>
             <name>OSEN</name>
         </author>
@@ -1917,16 +1997,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[광주찾은 김두관 "어대명으로는 압도적 정권교체 장담 못해"]]></title>
-        <id>https://www.yna.co.kr/view/AKR20250408082400054</id>
-        <link href="https://www.yna.co.kr/view/AKR20250408082400054"/>
-        <updated>2025-04-08T02:21:04.000Z</updated>
-        <summary type="html"><![CDATA[(광주=연합뉴스) 장아름 기자 = 더불어민주당 김두관 전 의원은 8일 "어대명(어차피 대통령은 이재명) 경선으로는 압도적 정권 교체를 장담할 수...]]></summary>
-        <author>
-            <name>장아름</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[제로베이스원 장하오, 中 행사장 인산인해..글로벌 핫 아이콘 입증]]></title>
         <id>https://www.chosun.com/entertainments/music/2025/04/08/DG4STGHLZIPOLXGUSO7WW2WWYE/</id>
         <link href="https://www.chosun.com/entertainments/music/2025/04/08/DG4STGHLZIPOLXGUSO7WW2WWYE/"/>
@@ -1934,36 +2004,6 @@
         <summary type="html"><![CDATA[[OSEN=김채연 기자] 그룹 제로베이스원(ZEROBASEONE) 멤버 장하오가 중국에서 뜨거운 인기를 구가하고 있다.장하오는 최근 글로벌 스포츠 브랜드 앰버서더로 발탁된 가운데, 중국에서 진행된 행사에는 발 디딜 틈 없이 수많은 팬들로 인산인해를 이루며 '글로벌 핫 아이콘'다운 인기를 입증했다. 뿐만 아니라 현지 유력 매체들의 인터뷰 요청 또한 쇄도했다.]]></summary>
         <author>
             <name>OSEN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주당 산불특위 "피해 반복되지 않도록 모든 역량 동원"]]></title>
-        <id>https://www.yna.co.kr/view/AKR20250408081300053</id>
-        <link href="https://www.yna.co.kr/view/AKR20250408081300053"/>
-        <updated>2025-04-08T02:20:49.000Z</updated>
-        <summary type="html"><![CDATA[(안동=연합뉴스) 이승형 기자 = 더불어민주당 산불재난긴급대응특별위원회는 8일 "산불 피해가 반복되지 않도록 모든 수단과 역량을 동원해 지원하겠...]]></summary>
-        <author>
-            <name>이승형</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경기도특사경, 폐의류 취급업체 불법행위 13건 적발]]></title>
-        <id>https://www.yna.co.kr/view/AKR20250408079900061</id>
-        <link href="https://www.yna.co.kr/view/AKR20250408079900061"/>
-        <updated>2025-04-08T02:20:17.000Z</updated>
-        <summary type="html"><![CDATA[(수원=연합뉴스) 최해민 기자 = 경기도 특별사법경찰단은 도내 폐의류 취급 업체를 대상으로 집중 수사를 벌여 13개 업체에서 불법 행위 13건을...]]></summary>
-        <author>
-            <name>최해민</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프로배구 남자부 FA 시장 개장…'최대어' 임성진 등 25명]]></title>
-        <id>https://www.yna.co.kr/view/AKR20250408081500007</id>
-        <link href="https://www.yna.co.kr/view/AKR20250408081500007"/>
-        <updated>2025-04-08T02:19:19.000Z</updated>
-        <summary type="html"><![CDATA[(서울=연합뉴스) 이대호 기자 = 프로배구 V리그 남자부 정상급 공격수들이 대거 자유계약선수(FA) 시장에 나왔다.]]></summary>
-        <author>
-            <name>이대호</name>
         </author>
     </entry>
     <entry>
@@ -1977,21 +2017,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[빌리언스플러스, 미디어캐슬과 독점 배급 계약..日콘텐츠 국내 공급]]></title>
-        <id>https://www.chosun.com/entertainments/movie/2025/04/08/N3AVOFZLAIT3XJ56SRVMGRK4IE/</id>
-        <link href="https://www.chosun.com/entertainments/movie/2025/04/08/N3AVOFZLAIT3XJ56SRVMGRK4IE/"/>
-        <updated>2025-04-08T02:19:00.000Z</updated>
-        <summary type="html"><![CDATA[[OSEN=김나연 기자] 콘텐츠 투자 및 배급사 빌리언스의 자회사 빌리언스플러스가 일본 영화 전문 수입·배급사 미디어캐슬과 독점 배급 계약을 체결하며, 일본 프리미엄 콘텐츠의 국내 유통에 본격적으로 나섰다. 이번 계약을 통해 양사는 2025년 한 해 동안 10편 이상의 일본 영화 및 애니메이션을 국내에 선보일 예정이다.미디어캐슬은 '너의 이름은', '스즈메]]></summary>
-        <author>
-            <name>OSEN</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['SON 안 지키는 토트넘과 달라' 리버풀, '살림꾼 수비수' 반 다이크와 재계약 임박! "협상 진전"]]></title>
         <id>https://www.chosun.com/sports/world-football/2025/04/08/QMPVFGBBKM2KZIL24NCAJ5ZOM4/</id>
         <link href="https://www.chosun.com/sports/world-football/2025/04/08/QMPVFGBBKM2KZIL24NCAJ5ZOM4/"/>
         <updated>2025-04-08T02:19:00.000Z</updated>
         <summary type="html"><![CDATA[[OSEN=노진주 기자] '리버풀 레전드 수비수' 버질 반 다이크(32)가 재계약 협상 진행 상황에 대해 직접 입장을 밝혔다.글로벌 매체 '트리뷰나'는 7일(한국시간) “반 다이크가 리버풀과 계약 연장 협상을 진행 중”이라고 보도했다.반 다이크는 인터뷰에서 “재계약에 진전이 있다. 두고 보자. 내부적으로 논의 중"이라고 말했다. 이어 "나는 클럽과 팬들을]]></summary>
+        <author>
+            <name>OSEN</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빌리언스플러스, 미디어캐슬과 독점 배급 계약..日콘텐츠 국내 공급]]></title>
+        <id>https://www.chosun.com/entertainments/movie/2025/04/08/N3AVOFZLAIT3XJ56SRVMGRK4IE/</id>
+        <link href="https://www.chosun.com/entertainments/movie/2025/04/08/N3AVOFZLAIT3XJ56SRVMGRK4IE/"/>
+        <updated>2025-04-08T02:19:00.000Z</updated>
+        <summary type="html"><![CDATA[[OSEN=김나연 기자] 콘텐츠 투자 및 배급사 빌리언스의 자회사 빌리언스플러스가 일본 영화 전문 수입·배급사 미디어캐슬과 독점 배급 계약을 체결하며, 일본 프리미엄 콘텐츠의 국내 유통에 본격적으로 나섰다. 이번 계약을 통해 양사는 2025년 한 해 동안 10편 이상의 일본 영화 및 애니메이션을 국내에 선보일 예정이다.미디어캐슬은 '너의 이름은', '스즈메]]></summary>
         <author>
             <name>OSEN</name>
         </author>
@@ -2177,26 +2217,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김국진 모친상, 강수지 시모상…큰 슬픔 빠진 치와와 부부]]></title>
-        <id>https://www.chosun.com/entertainments/broadcast/2025/04/08/VWJ6WASSAQ3DJ7J6KKAVS6DK4U/</id>
-        <link href="https://www.chosun.com/entertainments/broadcast/2025/04/08/VWJ6WASSAQ3DJ7J6KKAVS6DK4U/"/>
-        <updated>2025-04-08T02:02:00.000Z</updated>
-        <summary type="html"><![CDATA[[OSEN=장우영 기자] 방송인 김국진이 모친상을 당했다.8일 OSEN 확인 결과, 김국진의 모친 이재숙 씨는 지난 7일 별세했다. 향년 91세.김국진과 아내 강수지 등 가족들은 큰 슬픔 속에 빈소를 지키고 있는 것으로 알려졌다. 두 사람의 딸 비비아나도 상주로 이름을 올렸다.빈소는 연세대학교 신촌장례식장 특실1호에 마련됐다. 발인은 오는 10일 오전 8시]]></summary>
-        <author>
-            <name>OSEN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이번에는 日 축구 大망신, FIFA 랭킹 109위 베트남에 충격 무승부→中은 조기 탈락 굴욕…韓 축구, 아프가니스탄 6-0 대파 반전]]></title>
-        <id>https://www.chosun.com/sports/football/2025/04/08/GV4WDZWCY5P2WHZNJ6HHJXIGNA/</id>
-        <link href="https://www.chosun.com/sports/football/2025/04/08/GV4WDZWCY5P2WHZNJ6HHJXIGNA/"/>
-        <updated>2025-04-08T02:01:00.000Z</updated>
-        <summary type="html"><![CDATA[[스포츠조선 김성원 기자]이번에는 일본 축구가 체면을 구겼다. 대한민국 17세 이하(U-17) 대표팀이 악몽을 뚫고 반전에 성공했다. 백기태 감독이 이끄는 대한민국은 8일(이하 한국시각) 사우디아라비아 제다의 킹 압둘라 스포츠시티 홀 스타디움에서 열린 아프가니스탄과의 2025년 U-17 아시안컵 조별리그 C조 2차전에서 6대0으로 대승했다. 1차전에서 인도]]></summary>
-        <author>
-            <name>스포츠조선 = 김성원 기자</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[전한길 “‘尹 어게인’ 지지…우리가 옳았다는 것 증명하겠다”]]></title>
         <id>https://www.chosun.com/national/national_general/2025/04/08/RGQNZPMK25EGBGZ5V4Y2BSJNNM/</id>
         <link href="https://www.chosun.com/national/national_general/2025/04/08/RGQNZPMK25EGBGZ5V4Y2BSJNNM/"/>
@@ -2212,16 +2232,6 @@
         <link href="https://www.chosun.com/entertainments/broadcast/2025/04/08/IT2PBEHMVA6AWVX4CYF6XXSW6M/"/>
         <updated>2025-04-08T01:55:00.000Z</updated>
         <summary type="html"><![CDATA[조세호 남창희가 지드래곤보다 축의금 많이 내..봉투째 보관]]></summary>
-        <author>
-            <name>OSEN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘역대 4번째 10승1패’ LG, 2022년 SSG와 2020년 NC처럼 우승일까, 2003년 삼성의 추락일까]]></title>
-        <id>https://www.chosun.com/sports/baseball/2025/04/08/AFJ7GQOSSNDADXFVKAP5C2HC2I/</id>
-        <link href="https://www.chosun.com/sports/baseball/2025/04/08/AFJ7GQOSSNDADXFVKAP5C2HC2I/"/>
-        <updated>2025-04-08T01:41:00.000Z</updated>
-        <summary type="html"><![CDATA[역대 4번째 10승1패 LG, 2022년 SSG와 2020년 NC처럼 우승일까, 2003년 삼성의 추락일까]]></summary>
         <author>
             <name>OSEN</name>
         </author>
@@ -2494,16 +2504,6 @@
         <summary type="html"><![CDATA[종신 연금·비서관 등 예우 박탈 경호는 유지 尹대통령 파면 자연인 윤석열 앞으로]]></summary>
         <author>
             <name>김경필 기자</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손현보·전한길 “승복하겠다”… 폭력 사태 없었던 하루]]></title>
-        <id>https://www.chosun.com/national/national_general/2025/04/05/HC4I6JQ7DVAEXETAUTM2TTQ5BQ/</id>
-        <link href="https://www.chosun.com/national/national_general/2025/04/05/HC4I6JQ7DVAEXETAUTM2TTQ5BQ/"/>
-        <updated>2025-04-04T15:59:04.000Z</updated>
-        <summary type="html"><![CDATA[손현보·전한길 승복하겠다 폭력 사태 없었던 하루 尹대통령 파면 헌재 선고 순간 엇갈린 표정]]></summary>
-        <author>
-            <name>김도균 기자, 김혜민 기자, 이민경 기자, 조민희 기자, 한영원 기자</name>
         </author>
     </entry>
 </feed>
