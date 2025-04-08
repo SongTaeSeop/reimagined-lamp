@@ -40,13 +40,18 @@
             {{#each articles}}
             <article>
                 <h3><a href={{link}}>{{title}}</a></h3>
-                <div>
-                  <div>출처: <a href={{source.siteUrl}}>{{source.title}}</a></div>
-                  <div>작성일: <time>{{isoPublishDate}}</time></div>
-                  <div>작성 시간: <time>{{publishedOn}}</time></div>
-                  <div>읽는 시간: <time>{{readingTimeInMin}}분</time></div>
-                  <div>단어 수: <time>{{wordCount}}</time></div>
-                </div>
+                <dl>
+                  <dt>출처</dt>
+                  <dd><a href={{source.siteUrl}}>{{source.title}}</a></dd>
+                  <dt>작성일</dt>
+                  <dd><time>{{isoPublishDate}}</time></dd>
+                  <dt>작성 시간</dt>
+                  <dd><time>{{publishedOn}}</time></dd>
+                  <dt>읽는 시간</dt>
+                  <dd><time>{{readingTimeInMin}}분</time></dd>
+                  <dt>단어 수</dt>
+                  <dd><time>{{wordCount}}</time></dd>
+                </dl>
               </details>
             </article>
             {{/each}}
