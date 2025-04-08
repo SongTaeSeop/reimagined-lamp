@@ -15,10 +15,10 @@
 <body>
   <header>
     <dl>
-      <dt><b>Site title</b></dt><dd>{{siteTitle}}</dd>
-      <dt><b>Built on</b></dt><dd>{{siteBuildTimestamp}}</dd>
-      <dt><b>Cli version</b></dt><dd>{{cliVersion}}</dd>
-      <dt><b>Documentation URL</b></dt><dd>{{projectUrl}}</dd>
+      <dt><b>사이트 이름</b></dt><dd>{{siteTitle}}</dd>
+      <dt><b>마지막 업데이트 시간</b></dt><dd>{{siteBuildTimestamp}}</dd>
+      <dt><b>Cli 버전</b></dt><dd>{{cliVersion}}</dd>
+      <dt><b>문서 URL</b></dt><dd>{{projectUrl}}</dd>
     </dl>
   </header>
 
@@ -41,16 +41,12 @@
             <article>
                 <h3><a href={{link}}>{{title}}</a></h3>
                 <div>
-                  <span>Source: <a href={{source.siteUrl}}>{{source.title}}</a></span> | 
-                  <span>Date: <time>{{isoPublishDate}}</time></span> |
-                  <span>Timestamp: <time>{{publishedOn}}</time></span> |
-                  <span>Reading time: <time>{{readingTimeInMin}} min</time></span> |
-                  <span>Word count: <time>{{wordCount}}</time></span>
+                  <div>출처: <a href={{source.siteUrl}}>{{source.title}}</a></div>
+                  <div>작성일: <time>{{isoPublishDate}}</time></div>
+                  <div>작성 시간: <time>{{publishedOn}}</time></div>
+                  <div>읽는 시간: <time>{{readingTimeInMin}}분</time></div>
+                  <div>단어 수: <time>{{wordCount}}</time></div>
                 </div>
-                {{#if imageUrl}}
-                <img src="{{imageUrl}}" width="100" />
-                {{/if}}
-                <p>{{description}}</p>
               </details>
             </article>
             {{/each}}
